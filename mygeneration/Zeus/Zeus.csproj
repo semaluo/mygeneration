@@ -104,7 +104,7 @@
       <Name>System.XML</Name>
     </Reference>
     <ProjectReference Include="..\..\mymeta\MyMeta.csproj">
-      <Project>{72BEAB1C-B55F-4F0E-89AF-17F71E74A452}</Project>
+      <Project>{72beab1c-b55f-4f0e-89af-17f71e74a452}</Project>
       <Name>MyMeta</Name>
     </ProjectReference>
     <ProjectReference Include="..\EngineInterface\PluginInterfaces.csproj">

@@ -3,6 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGeneration", "MyGeneration\MyGeneration.csproj", "{02EA6C17-3A7B-47A6-9AC9-0C27F41E394E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{72BEAB1C-B55F-4F0E-89AF-17F71E74A452} = {72BEAB1C-B55F-4F0E-89AF-17F71E74A452}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeus", "Zeus\Zeus.csproj", "{CE8A697D-D45C-4E60-838D-E36980227543}"
 EndProject
